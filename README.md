@@ -50,5 +50,36 @@ This project focuses on predicting customer churn in a subscription-based busine
 
 ---
 
+## 🛠️ Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 🔄 Approach
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Handling class imbalance
+- Model building (Logistic Regression, Decision Tree)
+- Model evaluation using precision, recall, F1-score
+
+---
+
+## 📈 Key Insights
+- Customers with low tenure are more likely to churn
+- Higher monthly charges increase churn probability
+- Contract type plays a significant role in retention
+
+---
+
+## 📊 Results
+- Logistic Regression achieved balanced performance
+- Model helps identify high-risk customers effectively
+
+---
+
 ## 🔗 Project Link
 churn_analysis.ipynb
