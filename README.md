@@ -51,4 +51,4 @@ This project focuses on predicting customer churn in a subscription-based busine
 ---
 
 ## 🔗 Project Link
-[Add your notebook or demo link here]
+churn_analysis.ipynb
